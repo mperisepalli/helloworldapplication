@@ -1,4 +1,4 @@
-<testsuite name="helloworldapplication-test-suite" time="0.047" failures="0" errors="0" skipped="0" tests="1">
+<testsuite name="helloworldapplication-test-suite" time="0.049" failures="0" errors="0" skipped="0" tests="1">
   <properties>
     <property key="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property key="sun.boot.library.path" value="C:\Java\jdk1.8.0_101\jre\bin"/>
@@ -27,7 +27,7 @@
     <property key="os.name" value="Windows 8.1"/>
     <property key="classworlds.conf" value="E:\Softwares\apache-maven-3.0.5\apache-maven-3.0.5\bin\..\bin\m2.conf"/>
     <property key="sun.jnu.encoding" value="Cp1252"/>
-    <property key="java.library.path" value="C:\Java\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Java\jdk1.8.0_101\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\Softwares\apache-maven-3.0.5\apache-maven-3.0.5\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\WinMerge;%MULE_HOME%\bin;C:\Program Files\TortoiseGit\bin;C:\Users\mperisepalli\AppData\Local\atom\bin;."/>
+    <property key="java.library.path" value="C:\Java\jdk1.8.0_101\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Java\jdk1.8.0_101\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;E:\Softwares\apache-maven-3.0.5\apache-maven-3.0.5\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\WinMerge;%MULE_HOME%\bin;C:\Program Files\TortoiseGit\bin;C:\Program Files\TortoiseSVN\bin;C:\Users\mperisepalli\AppData\Local\atom\bin;."/>
     <property key="java.specification.name" value="Java Platform API Specification"/>
     <property key="java.class.version" value="52.0"/>
     <property key="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -37,13 +37,13 @@
     <property key="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property key="file.encoding" value="Cp1252"/>
     <property key="java.specification.version" value="1.8"/>
-    <property key="http.port" value="41980"/>
+    <property key="http.port" value="42959"/>
     <property key="log4j.configurationFile" value="file:/D:/londonProj/actualAccess/mule_repo/AnypointStudio/muleProject3/helloworldapplication/target/test-classes/log4j2-test.xml"/>
-    <property key="cobertura.port" value="53905"/>
+    <property key="cobertura.port" value="53429"/>
     <property key="java.class.path" value="E:\Softwares\apache-maven-3.0.5\apache-maven-3.0.5\bin\..\boot\plexus-classworlds-2.4.jar"/>
     <property key="user.name" value="mperisepalli"/>
     <property key="java.vm.specification.version" value="1.8"/>
-    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test"/>
+    <property key="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
     <property key="java.home" value="C:\Java\jdk1.8.0_101\jre"/>
     <property key="sun.arch.data.model" value="64"/>
     <property key="user.language" value="en"/>
@@ -65,5 +65,5 @@
     <property key="sun.desktop" value="windows"/>
     <property key="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase time="0.047" name="helloworldapplication-test-suite-helloworldapplicationFlowTest" classname="helloworldapplication-test-suite"/>
+  <testcase time="0.049" name="helloworldapplication-test-suite-helloworldapplicationFlowTest" classname="helloworldapplication-test-suite"/>
 </testsuite>
